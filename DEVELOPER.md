@@ -54,6 +54,11 @@ Tracks generated documents and their lifecycle so other plugins can treat docume
 | Field | Value |
 | --- | --- |
 | Depends On | `auth-core`, `org-tenant-core`, `role-policy-core`, `audit-core` |
+| Recommended Plugins | None |
+| Capability Enhancing | None |
+| Integration Only | None |
+| Suggested Packs | None |
+| Standalone Supported | Yes |
 | Requested Capabilities | `ui.register.admin`, `api.rest.mount`, `data.write.document` |
 | Provides Capabilities | `document.records` |
 | Owns Data | `document.records` |
